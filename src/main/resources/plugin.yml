@@ -1,0 +1,4 @@
+name: mcMMOChatLevel
+version: 1
+depends: [mcMMO]
+main: me.GrimReaper52498.mlp.Main
