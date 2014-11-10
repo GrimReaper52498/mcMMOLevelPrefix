@@ -15,7 +15,7 @@
         </repository>
         <repository>
             <id>mcmmo-repo</id>
-            <url>http://repo.mcmmo.org/</url>
+            <url>https://github.com/mcMMO-Dev/mcMMO</url>
         </repository>
     </repositories>
 
