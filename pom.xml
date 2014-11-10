@@ -22,8 +22,8 @@
     <dependencies>
         <dependency>
             <groupId>com.gmail.nossr50.mcMMO</groupId>
-            <artifactId>mcMMO</artifactId>
-            <version>LATEST</version>
+            <artifactId>mcmmo</artifactId>
+            <version>1.5.00-b3547</version>
         </dependency>
         <dependency>
             <groupId>org.bukkit</groupId>

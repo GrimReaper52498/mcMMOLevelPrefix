@@ -25,7 +25,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/Plugins/mcMMO.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/mcMMO.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
