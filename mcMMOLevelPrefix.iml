@@ -31,6 +31,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: com.gmail.nossr50.mcMMO:mcMMO:1.5.00-b3547" level="project" />
+    <orderEntry type="library" name="Maven: org.bukkit:bukkit:1.7.9-R0.2" level="project" />
   </component>
 </module>
 
