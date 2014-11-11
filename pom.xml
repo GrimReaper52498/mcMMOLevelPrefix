@@ -13,10 +13,6 @@
             <id>bukkit-repo</id>
             <url>http://repo.bukkit.org/content/groups/public/</url>
         </repository>
-        <repository>
-            <id>mcMMO-repo</id>
-            <url>http://repo.mcmmo.org</url>
-        </repository>
     </repositories>
 
     <dependencies>
